@@ -3,8 +3,8 @@
 * [Project info](#project-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Test scenarios](#test scenarios)
-* [Examples of use](#Examples of use)
+* [Test Scenarios](#test-scenarios)
+* [Examples of use](#examples-of-use)
 
 ## Project info
 Actualize load testing regarding a specific search for predefined keyword within all the date stored in the web page.
@@ -45,7 +45,7 @@ You should receive ...../locust.main: Starting web monitor at *:8089
 Then navigate to browser and go for http://localhost:8089.
 Try to run test scenario number 1. Insert;
 Number of users to simulate =5000
-Hatch rate (users spawned/second)=20
+Hatch rate (users spawned/second)=20n
 Then click Start swarming button.
 
 on cmd prompt you will see .../locust.runners: Hatching and swarming 5000 clients at the rate 20 clients/s.
