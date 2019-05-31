@@ -50,10 +50,13 @@ You should receive
 Then navigate to browser and go for http://localhost:8089.
 Try to run test scenario number 1. Insert;
 Number of users to simulate =5000
-Hatch rate (users spawned/second)=20
+Hatch rate (users spawned/second)=20 ,
 Then click Start swarming button.
 
-on cmd prompt you will see .../locust.runners: Hatching and swarming 5000 clients at the rate 20 clients/s.
+on cmd prompt you will see
+```
+.../locust.runners: Hatching and swarming 5000 clients at the rate 20 clients/s```
+
 Then you can check the Statistics , Charts or Failures during the run or complete.
 
 Then every step should be done for test scenario number 2.
