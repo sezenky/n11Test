@@ -62,6 +62,8 @@ Then you can check the Statistics , Charts or Failures during the run or complet
 
 Then every step should be done for test scenario number 2.
 
+Test results can be found as an extended file named Screenshots.
+
 -----------------------------------------------------------
 
 
