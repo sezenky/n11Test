@@ -37,7 +37,7 @@ To run Locust with the test scenarios Locust file, following steps needed to be 
 You can use these lines both on cmd or python idle with selecting run as administrator mode. 
 First navigate to proper directory that your file is placed.
 
-After that run the file.,
+After that run the file
 ```
 $ locust --host=https://www.n11.com --locustfile search.py
 ```
